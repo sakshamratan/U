@@ -1,4 +1,4 @@
-#Imports
+import numpy as np
 from PIL import Image, ImageFilter
 
 class BlurImage(object):
